@@ -1,0 +1,153 @@
+[
+    {
+      "nama": "John Doe",
+      "alamat": "Jl. Merpati No. 5",
+      "HP": "081234567890",
+      "Tgl_Transaksi": "2024-10-01",
+      "Jenis_Barang": "Elektronik",
+      "nama_barang": "Smartphone",
+      "Jumlah": 2,
+      "Harga": 5000000
+    },
+    {
+      "nama": "Jane Smith",
+      "alamat": "Jl. Anggrek No. 10",
+      "HP": "082345678901",
+      "Tgl_Transaksi": "2024-10-02",
+      "Jenis_Barang": "Furnitur",
+      "nama_barang": "Meja Belajar",
+      "Jumlah": 1,
+      "Harga": 1500000
+    },
+    {
+      "nama": "Michael Jordan",
+      "alamat": "Jl. Kenanga No. 7",
+      "HP": "083456789012",
+      "Tgl_Transaksi": "2024-10-03",
+      "Jenis_Barang": "Elektronik",
+      "nama_barang": "Laptop",
+      "Jumlah": 1,
+      "Harga": 12000000
+    },
+    {
+      "nama": "Sarah Connor",
+      "alamat": "Jl. Melati No. 3",
+      "HP": "084567890123",
+      "Tgl_Transaksi": "2024-10-04",
+      "Jenis_Barang": "Fashion",
+      "nama_barang": "Jaket Kulit",
+      "Jumlah": 3,
+      "Harga": 750000
+    },
+    {
+      "nama": "Chris Evans",
+      "alamat": "Jl. Mawar No. 20",
+      "HP": "085678901234",
+      "Tgl_Transaksi": "2024-10-05",
+      "Jenis_Barang": "Elektronik",
+      "nama_barang": "Tablet",
+      "Jumlah": 1,
+      "Harga": 3000000
+    },
+    {
+      "nama": "Emma Watson",
+      "alamat": "Jl. Dahlia No. 2",
+      "HP": "086789012345",
+      "Tgl_Transaksi": "2024-10-06",
+      "Jenis_Barang": "Fashion",
+      "nama_barang": "Sepatu Sneakers",
+      "Jumlah": 2,
+      "Harga": 1000000
+    },
+    {
+      "nama": "Tom Hanks",
+      "alamat": "Jl. Kamboja No. 12",
+      "HP": "087890123456",
+      "Tgl_Transaksi": "2024-10-07",
+      "Jenis_Barang": "Furnitur",
+      "nama_barang": "Kursi Kantor",
+      "Jumlah": 4,
+      "Harga": 500000
+    },
+    {
+      "nama": "Jennifer Lopez",
+      "alamat": "Jl. Teratai No. 15",
+      "HP": "088901234567",
+      "Tgl_Transaksi": "2024-10-08",
+      "Jenis_Barang": "Elektronik",
+      "nama_barang": "Kamera DSLR",
+      "Jumlah": 1,
+      "Harga": 7000000
+    },
+    {
+      "nama": "Robert Downey",
+      "alamat": "Jl. Melur No. 22",
+      "HP": "089012345678",
+      "Tgl_Transaksi": "2024-10-09",
+      "Jenis_Barang": "Fashion",
+      "nama_barang": "Tas Kulit",
+      "Jumlah": 1,
+      "Harga": 1250000
+    },
+    {
+      "nama": "Scarlett Johansson",
+      "alamat": "Jl. Bougenville No. 19",
+      "HP": "081023456789",
+      "Tgl_Transaksi": "2024-10-10",
+      "Jenis_Barang": "Elektronik",
+      "nama_barang": "Smartwatch",
+      "Jumlah": 2,
+      "Harga": 2500000
+    },
+    {
+      "nama": "Chris Hemsworth",
+      "alamat": "Jl. Cemara No. 9",
+      "HP": "082134567890",
+      "Tgl_Transaksi": "2024-10-11",
+      "Jenis_Barang": "Furnitur",
+      "nama_barang": "Sofa",
+      "Jumlah": 1,
+      "Harga": 8000000
+    },
+    {
+      "nama": "Gal Gadot",
+      "alamat": "Jl. Angsana No. 17",
+      "HP": "083245678901",
+      "Tgl_Transaksi": "2024-10-12",
+      "Jenis_Barang": "Fashion",
+      "nama_barang": "Kacamata Hitam",
+      "Jumlah": 5,
+      "Harga": 200000
+    },
+    {
+      "nama": "Dwayne Johnson",
+      "alamat": "Jl. Jati No. 5",
+      "HP": "084356789012",
+      "Tgl_Transaksi": "2024-10-13",
+      "Jenis_Barang": "Elektronik",
+      "nama_barang": "Headphone",
+      "Jumlah": 2,
+      "Harga": 1500000
+    },
+    {
+      "nama": "Angelina Jolie",
+      "alamat": "Jl. Cempaka No. 8",
+      "HP": "085467890123",
+      "Tgl_Transaksi": "2024-10-14",
+      "Jenis_Barang": "Furnitur",
+      "nama_barang": "Lemari Pakaian",
+      "Jumlah": 1,
+      "Harga": 3000000
+    },
+    {
+      "nama": "Brad Pitt",
+      "alamat": "Jl. Pinus No. 6",
+      "HP": "086578901234",
+      "Tgl_Transaksi": "2024-10-15",
+      "Jenis_Barang": "Elektronik",
+      "nama_barang": "TV LED",
+      "Jumlah": 1,
+      "Harga": 4000000
+    }
+  ]
+  
